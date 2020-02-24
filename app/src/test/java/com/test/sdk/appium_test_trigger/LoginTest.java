@@ -36,7 +36,7 @@ public class LoginTest {
         el2.sendKeys("kandroid");
         MobileElement el3 = (MobileElement) driver.findElementById("com.asiapay.payyobusiness:id/btnLogin");
         el3.click();
-        MobileElement el4 = (MobileElement) driver.findElementById("com.asiapay.payyobusiness:id/et1");
+        /*MobileElement el4 = (MobileElement) driver.findElementById("com.asiapay.payyobusiness:id/et1");
         el4.sendKeys("1");
         MobileElement el5 = (MobileElement) driver.findElementById("com.asiapay.payyobusiness:id/et2");
         el5.sendKeys("2");
@@ -45,7 +45,7 @@ public class LoginTest {
         MobileElement el7 = (MobileElement) driver.findElementById("com.asiapay.payyobusiness:id/et4");
         el7.sendKeys("4");
         MobileElement el8 = (MobileElement) driver.findElementById("com.asiapay.payyobusiness:id/btnOTPSubmit");
-        el8.click();
+        el8.click();*/
     }
 
     @After
