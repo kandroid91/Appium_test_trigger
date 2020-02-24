@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Appium_test_trigger</string>
+    <string name="action_settings">Settings</string>
+</resources>
